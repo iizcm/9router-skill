@@ -6,8 +6,8 @@ description: AI Agent Skill for multi-provider LLM routing, API setup, and endpo
 # 9Router - Skill
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Universal AI Agent Skill](https://img.shields.io/badge/universal-AI_agent_skill-orange?style=for-the-badge&logo=artillery&logoColor=white)](#)
-[![Category: DevOps](https://img.shields.io/badge/category-devops-purple?style=for-the-badge&logo=wix&logoColor=white)](#)
+[![Universal AI Agent Skill](https://img.shields.io/badge/universal-AI_agent_skill-orange?style=for-the-badge&logo=artillery&logoColor=white)(#)
+[![Category: DevOps](https://img.shields.io/badge/category-devops-purple?style=for-the-badge&logo=wix&logoColor=white)(#)
 
 ## Overview / Ringkasan
 
@@ -15,7 +15,7 @@ description: AI Agent Skill for multi-provider LLM routing, API setup, and endpo
 A universal AI agent skill that enables your agent to handle **multi-provider LLM routing, API setup, and endpoint testing**. Works with any AI agent platform (Hermes, Claude Code, OpenClaw, etc.).
 
 **Bahasa Indonesia:**
-Skill AI agent universal yang memungkinkan agen Anda menangani **multi-provider LLM routing, API setup, and endpoint testing**. Bekerja dengan semua platform AI agent (Hermes, Claude Code, OpenClaw, dll).
+Skill AI agent universal yang memungkinkan agen Anda menangani **multi-provider LLM routing, API setup, dan pengujian endpoint**. Bekerja dengan semua platform AI agent (Hermes, Claude Code, OpenClaw, dll).
 
 ## Installation / Instalasi
 
