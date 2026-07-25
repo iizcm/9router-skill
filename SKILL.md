@@ -2,7 +2,7 @@
 name: 9router
 description: Configure, test, and use 9Router multi-provider LLM router for chat, image gen, TTS, STT, web search, and web fetch. Supports combo models with auto-fallback round-robin across providers (ByNara, Gemini, OpenRouter, etc.). Use when setting up 9Router API, debugging provider routing, testing endpoint connectivity, or using 9Router models/endpoints.
 version: 1.0.0
-author: Hermes Agent
+author: Community
 license: MIT
 ---
 
